@@ -1,0 +1,120 @@
+<w:p>
+    <w:pPr>
+        <w:adjustRightInd w:val="0"/>
+        <w:snapToGrid w:val="0"/>
+        <w:spacing w:line="400" w:lineRule="exact"/>
+        <w:ind w:left="840" w:hanging="840"/>
+        <w:rPr>
+            <w:sz w:val="24"/>
+        </w:rPr>
+    </w:pPr>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia" w:ascii="黑体" w:hAnsi="黑体" w:eastAsia="黑体"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>关键词</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="黑体" w:hAnsi="黑体" w:eastAsia="黑体"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>：</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+            <w:kern w:val="1"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+            <w:lang w:val="zh-CN"/>
+        </w:rPr>
+        <w:t>跨域；</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>Rails</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+            <w:kern w:val="1"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+            <w:lang w:val="zh-CN"/>
+        </w:rPr>
+        <w:t>；</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>CORS</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+            <w:kern w:val="1"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+            <w:lang w:val="zh-CN"/>
+        </w:rPr>
+        <w:t>；</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>J</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>SON</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>Web</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>Token</w:t>
+    </w:r>
+</w:p>
+<w:p>
+    <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+    <w:bookmarkEnd w:id="0"/>
+</w:p>
+<w:sectPr>
+    <w:pgSz w:w="11906" w:h="16838"/>
+    <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+    <w:cols w:space="425" w:num="1"/>
+    <w:docGrid w:type="lines" w:linePitch="312" w:charSpace="0"/>
+</w:sectPr>
+</w:document>

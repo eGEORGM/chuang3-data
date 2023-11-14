@@ -1,0 +1,143 @@
+<w:p>
+    <w:pPr>
+        <w:pStyle w:val="4"/>
+        <w:ind w:firstLine="480"/>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+    </w:pPr>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>本论文主要讲述</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>基于</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:kern w:val="2"/>
+            <w:szCs w:val="20"/>
+            <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>WEBAPI</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>的图片在线存储服务的设计与实现</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>，</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>即</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t xml:space="preserve">使用 </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:kern w:val="2"/>
+            <w:szCs w:val="20"/>
+            <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Ruby </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:kern w:val="2"/>
+            <w:szCs w:val="20"/>
+            <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">on </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:kern w:val="2"/>
+            <w:szCs w:val="20"/>
+            <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>Rails</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>框架</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>构建出一套用于图片在线存储的系统，</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>并</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t xml:space="preserve">以 </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:kern w:val="2"/>
+            <w:szCs w:val="20"/>
+            <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>API</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> 的</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>形式提供给</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia" w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>开发</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+        </w:rPr>
+        <w:t>者。</w:t>
+    </w:r>
+</w:p>

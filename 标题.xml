@@ -1,0 +1,24 @@
+<w:p>
+  
+  <w:pPr>
+    <w:pStyle w:val="4"/><!-- w:pStyle中的w：val的值确定为标题 -->
+    <w:spacing w:before="480" w:beforeLines="200" w:after="480" w:afterLines="200" w:line="240" w:lineRule="auto"/>
+    <w:ind w:firstLine="640"/>
+    <w:jc w:val="center"/>
+    <w:rPr>
+      <w:rFonts w:ascii="黑体" w:hAnsi="黑体" w:eastAsia="黑体"/>
+      <w:sz w:val="32"/>
+      <w:szCs w:val="32"/>
+    </w:rPr>
+  </w:pPr>
+  
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="黑体" w:hAnsi="黑体" w:eastAsia="黑体"/>
+      <w:sz w:val="32"/>
+      <w:szCs w:val="32"/>
+    </w:rPr>
+    <w:t>摘  要</w:t>
+  </w:r>
+  
+</w:p>
